@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: aqua;
+    min-height: 110px;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+nav {
+    
+    background-color: blue;
+    min-height: 30px;
+    
+}
+
+article {
+    background-color: brown;
+    min-height: 450px;
+    width: 60%;
+    float: left;
+
+}
+
+aside {
+    background-color: orange;
+    min-height: 450px;
+    width: 40%;
+    float: right;
+    
+}
+.div_container {
+    background-color: blueviolet;
+    height: 28em;
+    width: 100%;
+
+    
+    
+}
+
+footer {
+    clear: both;
+    background-color: aqua;
+    min-height: 50px;
+}
+
