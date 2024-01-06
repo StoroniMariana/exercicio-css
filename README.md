@@ -1,0 +1,2 @@
+# exercicio css
+ praticando divisões 
